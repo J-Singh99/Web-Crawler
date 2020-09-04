@@ -1,4 +1,3 @@
-// Array elements out of given range will be treated as 0
 import java.util.Scanner;
 public class Answer_2{
 
